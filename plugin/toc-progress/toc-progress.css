@@ -16,8 +16,8 @@
 	opacity: 1;
 	transition: opacity 800ms ease-in-out;
 	position: fixed;
-	bottom: 3px;
-	height: 9.5vh;
+	top: 3px;
+	height: 6vh;
 	z-index: 20;
 	width: 100%;
 	font-size: 1.55vh;
